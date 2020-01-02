@@ -2,7 +2,7 @@ spring:
   application:
     name: coursesPaginatedCrud
   datasource:
-    url: jdbc:postgresql://localhost:5432/training
+    url: jdbc:postgresql://localhost:5432/postgres
     username: postgres
     password: docker
   jpa:
